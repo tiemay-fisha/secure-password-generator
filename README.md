@@ -1,11 +1,13 @@
 🔐 SECURE PASSWORD GENERATOR SYSTEM
 
 📌 Project Description
+
 This project is a Python-based Secure Password Generator System designed to help users create strong passwords and understand password security principles.
 
 It allows users to generate passwords based on selected rules (uppercase, lowercase, numbers, symbols) and evaluates their strength using a scoring system. It also includes a PIN generator mode and cybersecurity awareness tips.
 
 🎯 Purpose
+
 The main goal of this project is to:
 
 Demonstrate how secure passwords are generated
@@ -16,6 +18,7 @@ Simulate real password policy systems used in secure applications
 This project is part of my learning journey in Cybersecurity.
 
 ⚙️ Features
+
 🔐 Strong password generator with custom rules
 🔢 PIN generator (4-digit secure PIN mode)
 📊 Password strength checker (0–4 scoring system)
@@ -28,6 +31,7 @@ This project is part of my learning journey in Cybersecurity.
 
 
 🧠 How It Works
+
 User selects mode (Password or PIN)
 User enters password length (if password mode)
 User selects character options (y/n)
@@ -37,11 +41,13 @@ Feedback and cybersecurity tips are displayed
 Password history is stored
 
 💻 Technologies Used
+
 Python 🐍
 (No external libraries required)
 
 
 🔐 Cybersecurity Concepts Used
+
 This project demonstrates:
 
 Password policy enforcement
@@ -51,12 +57,14 @@ Input validation and security handling
 Basic authentication awareness
 
 🚀 Future Improvements
+
 Add encrypted password storage
 Add user login system
 Add GUI interface
 Add password breach detection feature
 
 🙏 Author Note
+
 This project was built as part of my cybersecurity learning journey to understand how secure systems generate and evaluate passwords.
 
 🔐 Stay Safe
